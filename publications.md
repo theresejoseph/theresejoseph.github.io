@@ -15,7 +15,9 @@ This work addresses the challenges of place recognition under extreme lighting c
 
 **Matched Filtering Based LiDAR Place Recognition for Urban and Natural Environments** *IEEE Robotics and Automation Letters (RA-L), 2025* T. Joseph, T. Fischer, M. Milford  
 
-![MatchedFilterLiDAR](/resources/ScanProcessing.jpg){: style="width: 85%; height: auto;"}
+<div style="text-align:center;">
+  ![MatchedFilterLiDAR](/resources/ScanProcessing.jpg){: style="width: 75%; height: auto;"}
+</div>
 
 We present a robust LiDAR-based place recognition method designed for diverse environments, ranging from structured urban settings to unstructured natural terrain. By utilizing matched filtering techniques, the system achieves high reliability in identifying previously visited locations, facilitating consistent long-term localization for autonomous systems.
 
@@ -26,7 +28,9 @@ We present a robust LiDAR-based place recognition method designed for diverse en
 
 **Trajectory tracking via multiscale continuous attractor networks** *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023* T. Joseph, T. Fischer, M. Milford  
 
-![MultiscaleCAN](/resources/MultiscaleCAN.jpg)
+<div style="text-align:center;">
+![MultiscaleCAN](/resources/MultiscaleCAN.jpg){: style="width: 85%; height: auto;"}
+</div>
 
 We explore a bio-inspired approach to trajectory tracking using multiscale continuous attractor networks (CANs). This method enables robust path integration and spatial representation, providing a computationally efficient backbone for autonomous navigation and state estimation.
 
