@@ -21,6 +21,8 @@ layout: single
 </iframe>
 </div>
 
+<p><a href="/publications/#matched-filtering-based-lidar-place-recognition-for-urban-and-natural-environments">Related publication</a></p>
+
 ---
 
 ## Trajectory tracking via multiscale continuous attractor networks
@@ -34,3 +36,5 @@ layout: single
   allowfullscreen>
 </iframe>
 </div>
+
+<p><a href="/publications/#trajectory-tracking-via-multiscale-continuous-attractor-networks">Related publication</a></p>

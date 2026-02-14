@@ -30,7 +30,7 @@ We present a robust LiDAR-based place recognition method designed for diverse en
 
 We explore a bio-inspired approach to trajectory tracking using multiscale continuous attractor networks (CANs). This method enables robust path integration and spatial representation, providing a computationally efficient backbone for autonomous navigation and state estimation.
 
-[Poster](/resources/IROS2023_Poster.pdf)[Slides]([text](resources/IROS23_Paper.pdf))
+[Slides](resources/IROS23_Paper.pdf)[Poster](/resources/IROS2023_Poster.pdf)
 
 
 ---
@@ -42,6 +42,8 @@ We explore a bio-inspired approach to trajectory tracking using multiscale conti
 ![Jamming donut gripper](/resources/fruitygrips.png)
 
 We introduce a novel soft robotic gripper design that utilizes granular jamming to manipulate objects in free space. The "jamming donut" geometry allows for a versatile grip on a wide variety of object shapes and sizes, combining the adaptability of soft materials with the strength of jammed granular states.
+
+[Slides](/resources/EGH400_honours.pdf)
 
 **A comprehensive dataset of grains for granular jamming in soft robotics: Grip strength and shock absorption** *IEEE International Conference on Soft Robotics (RoboSoft), 2023* D. Howard, J. O'Connor, J. Letchford, T. Joseph, S. Lin, S. Baldwin, et al.  
 
