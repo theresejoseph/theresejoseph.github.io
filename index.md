@@ -3,9 +3,9 @@ layout: home
 author_profile: true
 ---
 
-Hi — I'm **Therese Joseph**, a robotics & reinforcement learning researcher.
+Hi — I'm **Therese Joseph**, a robotics researcher with experience in localisation and soft robotics.
 
-**Interests:** sim-to-real, humanoids, safety / OOD detection, control, reinforcement learning methods.
+**Interests:** 
 
 - [Publications](/publications.md)
 - [Research Capabilities](/capabilities.md)
