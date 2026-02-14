@@ -50,7 +50,7 @@ We explore a bio-inspired approach to trajectory tracking using multiscale conti
 
 We introduce a novel soft robotic gripper design that utilizes granular jamming to manipulate objects in free space. The "jamming donut" geometry allows for a versatile grip on a wide variety of object shapes and sizes, combining the adaptability of soft materials with the strength of jammed granular states.
 
-[Slides](/resources/EGH400_honours.pdf)
+[Paper](https://ieeexplore.ieee.org/abstract/document/10121993) . [Slides](/resources/EGH400_honours.pdf)
 
 ---
 
@@ -63,7 +63,7 @@ We introduce a novel soft robotic gripper design that utilizes granular jamming 
 
 This paper provides an extensive experimental analysis of different grain types for use in soft robotic jamming systems. We evaluate the trade-offs between grip strength and shock absorption capabilities, offering a reference dataset for optimizing soft gripper performance based on material selection.
 
-[Slides](/Multi-material%20soft%20robotics%20based%20on%20granular%20and%20layer%20jamming.pdf)
+[Paper](https://ieeexplore.ieee.org/abstract/document/10122060) . [Slides](/Multi-material%20soft%20robotics%20based%20on%20granular%20and%20layer%20jamming.pdf)
 
 ---
 
@@ -73,4 +73,4 @@ This paper provides an extensive experimental analysis of different grain types 
 
 We investigate the evolution of membrane morphology to enhance the effectiveness of soft robotic grippers. By evolving the physical structure of the membrane "in materio," we demonstrate how morphological complexity can lead to significant improvements in gripping performance and adaptability.
 
-[Slides](/Multi-material%20soft%20robotics%20based%20on%20granular%20and%20layer%20jamming.pdf)
+[Paper](https://ieeexplore.ieee.org/abstract/document/9762197) . [Slides](/Multi-material%20soft%20robotics%20based%20on%20granular%20and%20layer%20jamming.pdf)
