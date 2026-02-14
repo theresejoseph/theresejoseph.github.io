@@ -31,7 +31,9 @@ We present a robust LiDAR-based place recognition method designed for diverse en
 **Trajectory tracking via multiscale continuous attractor networks** *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023* T. Joseph, T. Fischer, M. Milford  
 
 <div style="text-align:center;">
-![MultiscaleCAN](/resources/MultiscaleCAN.jpg){: style="width: 85%; height: auto;"}
+</div>
+  <img src="/resources/MultiscaleCAN.jpg" alt="MultiscaleCAN" style="width:85%;height:auto;">
+</div>
 </div>
 
 We explore a bio-inspired approach to trajectory tracking using multiscale continuous attractor networks (CANs). This method enables robust path integration and spatial representation, providing a computationally efficient backbone for autonomous navigation and state estimation.
