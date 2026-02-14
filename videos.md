@@ -4,26 +4,17 @@ permalink: /videos/
 layout: single
 ---
 
-## RAPT: Sim-to-Real OOD Detection and Failure Diagnosis
 
-<div class="video-container">
-<iframe
-  src="https://www.youtube.com/embed/nAW1QfHK9ic"
-  title="RAPT: Sim-to-Real OOD Detection"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
 </div>
+
 ---
 
-## Whole-Body Dynamic Throwing with Legged Manipulators
-
+## Matched Filtering Based LiDAR Place Recognition for Urban and Natural Environments
 
 <div class="video-container">
 <iframe
-  src="https://www.youtube.com/embed/QUfvToTtXww"
-  title="Whole-Body Dynamic Throwing with Legged Manipulators"
+  src="https://www.youtube.com/embed/H59qyea9VqY"
+  title="Matched Filtering Based LiDAR Place Recognition for Urban and Natural Environments"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
@@ -32,12 +23,12 @@ layout: single
 
 ---
 
-## GCR-PPO: Gradient Conflict Resolution for Multi-Objective RL
+## Trajectory tracking via multiscale continuous attractor networks
 
 <div class="video-container">
 <iframe
-  src="https://www.youtube.com/embed/Ckjx2BwN6gw"
-  title="GCR-PPO: Multi-Objective Reinforcement Learning"
+  src="https://www.youtube.com/embed/eKSmpjTUffo"
+  title="Trajectory tracking via multiscale continuous attractor networks"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
