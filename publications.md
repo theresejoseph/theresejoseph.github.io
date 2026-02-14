@@ -4,69 +4,32 @@ permalink: /publications/
 layout: single
 ---
 
-## Sim-to-Real, Safety, and Deployment
+## Autonomous Navigation and Place Recognition
 
-**RAPT: Model-Predictive Out-of-Distribution Detection and Failure Diagnosis for Sim-to-Real Humanoid Robots**  
-*Under review*  
-H. Munn, B. Tidd, P. Böhm, M. Gallagher, D. Howard  
+**Matched Filtering Based LiDAR Place Recognition for Urban and Natural Environments** *IEEE Robotics and Automation Letters (RA-L), 2025* T. Joseph, T. Fischer, M. Milford  
 
-We introduce **RAPT**, a lightweight, self-supervised deployment-time monitor for 50 Hz humanoid control. RAPT learns a probabilistic spatio-temporal model of nominal execution and detects predictive deviations with calibrated, per-dimension signals, enabling reliable online OOD detection under strict false-positive constraints. Beyond detection, RAPT supports post-hoc root-cause diagnosis via gradient-based temporal saliency and zero-shot LLM reasoning, providing actionable interpretability for real-world humanoid failures.
+We present a robust LiDAR-based place recognition method designed for diverse environments, ranging from structured urban settings to unstructured natural terrain. By utilizing matched filtering techniques, the system achieves high reliability in identifying previously visited locations, facilitating consistent long-term localization for autonomous systems.
 
-[arXiv](https://arxiv.org/abs/2602.01515) · [Video](https://youtu.be/nAW1QfHK9ic)
+**Ensemble-based event camera place recognition under varying illumination** *IEEE Robotics and Automation Letters (RA-L), 2025* T. Joseph, T. Fischer, M. Milford  
 
-![RAPT]({{ "rapt_1.png" | relative_url }})
-![RAPT]({{ "rapt_2.png" | relative_url }})
+This work addresses the challenges of place recognition under extreme lighting changes. By leveraging the high dynamic range and temporal resolution of event-based cameras within an ensemble framework, we demonstrate superior performance in varying illumination conditions where traditional frame-based cameras often fail.
 
----
+**Trajectory tracking via multiscale continuous attractor networks** *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023* T. Joseph, T. Fischer, M. Milford  
 
-## Whole-Body Control and Real-Robot Reinforcement Learning
-
-**Whole-Body Dynamic Throwing with Legged Manipulators**  
-*Australasian Conference on Robotics and Automation (ACRA), 2025*  
-H. Munn, B. Tidd, P. Böhm, M. Gallagher, D. Howard  
-
-We study dynamic throwing with legged robots, requiring tight coordination between manipulation and locomotion. By optimising full-body reinforcement learning policies rather than arm-only control, our approach exploits whole-body momentum, counter-balancing, and coordinated dynamics. We demonstrate improved throwing range, accuracy, and stability on both a humanoid and an armed quadruped, with successful sim-to-real transfer to a physical humanoid platform.
-
-[Paper](https://ssl.linklings.net/conferences/acra/acra2025_proceedings/views/includes/files/pap114s2.pdf) · [PPT Slides with Videos]({{ "/slides_acra.pptx" | relative_url }}) · [Video](https://www.youtube.com/watch?v=QUfvToTtXww)
-
-![Whole-Body Dynamic Throwing]({{ "fig1_wholebody.jpg" | relative_url }})
+We explore a bio-inspired approach to trajectory tracking using multiscale continuous attractor networks (CANs). This method enables robust path integration and spatial representation, providing a computationally efficient backbone for autonomous navigation and state estimation.
 
 ---
 
-## Reinforcement Learning Algorithms and Optimisation
+## Soft Robotics and Bio-inspired Engineering
 
-**Scalable Multi-Objective Robot Reinforcement Learning through Gradient Conflict Resolution**  
-*Accepted to ICRA 2026*  
-H. Munn, B. Tidd, P. Böhm, M. Gallagher, D. Howard  
+**The jamming donut: a free-space gripper based on granular jamming** *IEEE International Conference on Soft Robotics (RoboSoft), 2023* T. Joseph, S. Baldwin, L. Guan, J. Brett, D. Howard  
 
-We propose **GCR-PPO**, a scalable multi-objective extension to actor–critic reinforcement learning that explicitly resolves conflicts between objective-wise gradients. Using a multi-headed critic and priority-based gradient resolution, GCR-PPO improves scalability and robustness without significant computational overhead. Across IsaacLab manipulation and locomotion benchmarks, GCR-PPO achieves an average performance improvement of 9.5%, with larger gains on high-conflict tasks.
+We introduce a novel soft robotic gripper design that utilizes granular jamming to manipulate objects in free space. The "jamming donut" geometry allows for a versatile grip on a wide variety of object shapes and sizes, combining the adaptability of soft materials with the strength of jammed granular states.
 
-[arXiv](https://arxiv.org/abs/2509.14816) · [Video](https://youtu.be/Ckjx2BwN6gw) · [Code](https://github.com/humphreymunn/GCR-PPO)
+**A comprehensive dataset of grains for granular jamming in soft robotics: Grip strength and shock absorption** *IEEE International Conference on Soft Robotics (RoboSoft), 2023* D. Howard, J. O'Connor, J. Letchford, T. Joseph, S. Lin, S. Baldwin, et al.  
 
-![GCR-PPO]({{ "icra.png" | relative_url }})
----
+This paper provides an extensive experimental analysis of different grain types for use in soft robotic jamming systems. We evaluate the trade-offs between grip strength and shock absorption capabilities, offering a reference dataset for optimizing soft gripper performance based on material selection.
 
-## Neuroevolution and Learning Structure
+**Getting a grip: In materio evolution of membrane morphology for soft robotic jamming grippers** *IEEE International Conference on Soft Robotics (RoboSoft), 2022* D. Howard, J. O'Connor, J. Letchford, J. Brett, T. Joseph, S. Lin, D. Furby, et al.  
 
-**Towards Understanding the Link Between Modularity and Performance in Neural Networks for Reinforcement Learning**  
-*International Joint Conference on Neural Networks (IJCNN), 2023*  
-H. Munn, M. Gallagher  
-
-We investigate the relationship between network modularity and performance in reinforcement learning, using neuroevolution to jointly explore architectures and weights. Through quality-diversity optimisation with MAP-Elites, we show that optimal modularity depends on complex interactions between network structure, task, and optimisation dynamics, suggesting that directly optimising for modularity may not reliably yield performance gains.
-
-[Paper](https://ieeexplore.ieee.org/abstract/document/10191234) · [Code](https://github.com/humphreymunn/ModularityNEAT)
-
-![Towards Understanding the Link Between Modularity and Performance]({{ "ijcnn.png" | relative_url }})
----
-
-## Curriculum Learning and Environment Design
-
-**Assessing Evolutionary Terrain Generation Methods for Curriculum Reinforcement Learning**  
-*Genetic and Evolutionary Computation Conference (GECCO), 2022*  
-D. Howard, H. Munn, D. Dolcetti, J. Kannemeyer, N. Robinson  
-
-We analyse how terrain generation methods influence curriculum learning for humanoid locomotion. Comparing noise-based generators with indirect encodings (CPPNs and GANs), we evaluate learning performance using representation-agnostic MAP-Elites descriptors computed directly from terrain geometry. Our results highlight systematic differences between generators and provide practical guidance for terrain design in curriculum RL.
-
-[Paper](https://dl.acm.org/doi/abs/10.1145/3512290.3528870)  · [Video](https://www.youtube.com/watch?v=jGfek3Dh18M)
-
-![Assessing Evolutionary Terrain Generation Methods]({{ "representations.png" | relative_url }})
+We investigate the evolution of membrane morphology to enhance the effectiveness of soft robotic grippers. By evolving the physical structure of the membrane "in materio," we demonstrate how morphological complexity can lead to significant improvements in gripping performance and adaptability.
