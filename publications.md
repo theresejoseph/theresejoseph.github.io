@@ -15,7 +15,7 @@ This work addresses the challenges of place recognition under extreme lighting c
 
 **Matched Filtering Based LiDAR Place Recognition for Urban and Natural Environments** *IEEE Robotics and Automation Letters (RA-L), 2025* T. Joseph, T. Fischer, M. Milford  
 
-![MatchedFilterLiDAR](/resources/ScanProcessing.jpg)
+![MatchedFilterLiDAR](/resources/ScanProcessing.jpg){: style="width: 85%; height: auto;"}
 
 We present a robust LiDAR-based place recognition method designed for diverse environments, ranging from structured urban settings to unstructured natural terrain. By utilizing matched filtering techniques, the system achieves high reliability in identifying previously visited locations, facilitating consistent long-term localization for autonomous systems.
 
