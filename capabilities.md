@@ -18,11 +18,11 @@ Soft Robotics
 ## Technical Expertise
 
 Software & Development
-- **Languages:** Python (PyTorch, Open3D, NumPy, Pandas), Swift, Kotlin, MATLAB
-- **Robotics Middleware:** ROS (Robot Operating System)
-- **Visualization:** Custom GUI development, Google Maps API integration
+- Languages: Python (PyTorch, Open3D, NumPy, Pandas), Swift, Kotlin, MATLAB
+- Robotics Middleware: ROS (Robot Operating System)
+- Visualization: Custom GUI development, Google Maps API integration
 
 Engineering & Validation
-- **Hardware Design:** CAD (Solidworks), 3D Printing (Soft & Hard materials)
-- **Sensor Integration:** LiDAR, Event Cameras, GNSS
-- **Field Testing:** Large-scale data collection in diverse environments (tunnels, urban, off-road)
+- Hardware Design: CAD (Solidworks), 3D Printing (Soft & Hard materials)
+- Sensor Integration: LiDAR, Event Cameras, GNSS
+- Field Testing: Large-scale data collection in diverse environments (tunnels, urban, off-road)
