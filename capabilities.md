@@ -3,50 +3,31 @@ title: "Research Capabilities"
 permalink: /capabilities/
 layout: single
 ---
-
-## Research Capabilities
-
 ### Core Research Areas
 
-**Autonomous Navigation & Robotics**
-- LiDAR-based place recognition and loop closure detection
-- Multi-scale scene understanding for autonomous systems
-- Sensorimotor learning and embodied AI
+**Autonomous Navigation & Perception**
+- Robust localisation in challenging conditions (GNSS-denied, perceptual aliasing)
+- Visual Place Recognition (VPR) using Event Cameras and LiDAR
+- SLAM, VSLAM, and State Estimation for mobile robotics
+- Bio-inspired navigation algorithms (Continuous Attractor Networks)
 
 **Soft Robotics**
-- Material-based computation with granular media
-- In materio computing for robotics
-- Morphological computation in soft systems
-
-**Machine Learning & AI**
-- Reinforcement learning for robotic control
-- Computer vision and signal processing
-- Bio-inspired learning architectures
+- Granular jamming mechanisms for adaptive gripping
+- Soft robotic design and 3D printing fabrication
 
 ### Technical Expertise
 
-**Hardware & Simulation**
-- Robot design and control
-- Sensor integration (LiDAR, cameras, depth sensors)
-- Physics simulation and model validation
-- Experimental prototyping and validation
+**Software & Development**
+- **Languages:** Python (PyTorch, Open3D, NumPy, Pandas), Swift, Kotlin, MATLAB
+- **Robotics Middleware:** ROS (Robot Operating System)
+- **Visualization:** Custom GUI development, Google Maps API integration
 
-**Software & Algorithms**
-- Python, C++, ROS (Robot Operating System)
-- Deep learning frameworks (PyTorch, TensorFlow)
-- Image processing and feature extraction
-- Optimization and numerical methods
-
-**Research Methodologies**
-- Empirical experimentation and hardware validation
-- Data-driven modeling and analysis
-- Comparative performance benchmarking
-- Publication and peer review
+**Engineering & Validation**
+- **Hardware Design:** CAD (Solidworks), 3D Printing (Soft & Hard materials)
+- **Sensor Integration:** LiDAR, Event Cameras, GNSS
+- **Field Testing:** Large-scale data collection in diverse environments (tunnels, urban, off-road)
 
 ### Application Domains
 
-- Autonomous vehicles and mobile robotics
-- Place recognition in GPS-denied environments
-- Natural computing and embodied cognition
-- Scalable robotic learning systems
-
+- **Autonomous Vehicles:** Localisation in varying illumination and in unstructured and natural environments
+- **Micromobility:** Real-time tracking for the transport domain
