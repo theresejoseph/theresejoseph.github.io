@@ -23,5 +23,4 @@ Software & Development
 
 Engineering & Validation
 - Hardware Design: CAD (Solidworks), 3D Printing (Soft & Hard materials)
-- Sensor Integration: LiDAR, Event Cameras, GNSS
 - Field Testing: Large-scale data collection in diverse environments (tunnels, urban, off-road)
