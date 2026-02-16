@@ -8,8 +8,7 @@ layout: single
 Autonomous Navigation & Perception
 - Robust localisation in challenging conditions (GNSS-denied, perceptual aliasing)
 - Visual Place Recognition (VPR) using Event Cameras and LiDAR
-- SLAM, VSLAM, and State Estimation for mobile robotics
-- Bio-inspired navigation algorithms (Continuous Attractor Networks)
+- VSLAM, and State Estimation for mobile robotics
 
 Soft Robotics
 - Granular jamming mechanisms for adaptive gripping
