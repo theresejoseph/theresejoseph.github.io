@@ -3,24 +3,20 @@ title: "Research Capabilities"
 permalink: /capabilities/
 layout: single
 ---
-## Core Research Areas
 
-Autonomous Navigation & Perception
-- Robust localisation in challenging conditions (GNSS-denied, perceptual aliasing)
-- Visual Place Recognition (VPR) using Event Cameras and LiDAR
-- VSLAM, and State Estimation for mobile robotics
+### 🚗 Autonomous Navigation
+* **Robust Localisation:** GNSS-denied conditions, perceptual aliasing, unstructured environments, challenging illumination
+* **Perception:** Event Cameras, LiDAR, 360 Cameras
+* **Algorithms:** Visual Place Recognition, VSLAM, State Estimation
 
-Soft Robotics
-- Granular jamming mechanisms for adaptive gripping
-- Soft robotic design and 3D printing fabrication
+### 🐙 Soft Robotics
+* **Mechanisms:** Granular jamming for adaptive gripping
+* **Fabrication:** Multi-material 3D printing, rapid prototyping
 
-## Technical Expertise
+### 💻 Software Stack
+* **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+* **Tools:** ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-Software & Development
-- Languages: Python (PyTorch, Open3D, NumPy, Pandas), Swift, Kotlin, MATLAB
-- Robotics Middleware: ROS (Robot Operating System)
-- Visualization: Custom GUI development, Google Maps API integration
-
-Engineering & Validation
-- Hardware Design: CAD (Solidworks), 3D Printing (Soft & Hard materials)
-- Field Testing: Large-scale data collection in diverse environments (tunnels, urban, off-road)
+### 🛠 Engineering & Validation
+* **Hardware Design:** CAD (Solidworks), Sensor mounting & integration
+* **Field Robotics:** Large-scale data collection in tunnels, urban, and off-road environments
